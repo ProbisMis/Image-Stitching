@@ -57,6 +57,15 @@ stitchedImage = stitch_cylinder(imgL, imgR, H);
 
 ## Results 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![L](https://github.com/ProbisMis/Image-Stitching/blob/master/Screenshots/goldengate-03.png)  |  ![R](https://github.com/ProbisMis/Image-Stitching/blob/master/Screenshots/unnamed.png)
+
+----------------------------------------------------------------------------
+
+![stitch](https://github.com/ProbisMis/Image-Stitching/blob/master/Screenshots/unnamed.jpg)
+
+
 The success of the algorithm changes from image to image.  The percentage of overlapping between the images effects the result of stitching. 
 
 
